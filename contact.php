@@ -114,5 +114,6 @@
         <a href="./terms.php">Terms &amp; Conditions</a>
       </div>
     </div>
+      <script src="brand-domain.js"></script>
   </body>
 </html>

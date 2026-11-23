@@ -159,5 +159,6 @@
         <a href="./contact.php">Contact</a>
       </div>
     </div>
+      <script src="brand-domain.js"></script>
   </body>
 </html>
