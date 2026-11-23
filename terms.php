@@ -8,8 +8,7 @@
   </head>
   <body>
     <div class="top-bar" role="note">
-      Independent publisher — not a government website. Operated by Inception
-      Point Media LLC.
+      Independent publisher — not a government website. Operated by Lerpy Turkey LLC.
     </div>
 
     <div class="page">
@@ -45,8 +44,8 @@
           </p>
           <p>
             Email:
-            <a href="mailto:support@inceptionpointmedia.io"
-              >support@inceptionpointmedia.io</a
+            <a href="mailto:support@lerpyturkey.com"
+              >support@lerpyturkey.com</a
             >
           </p>
         </div>
@@ -144,8 +143,8 @@
         <h2>11. Contact</h2>
         <p>
           Questions about these Terms may be sent to
-          <a href="mailto:support@inceptionpointmedia.io"
-            >support@inceptionpointmedia.io</a
+          <a href="mailto:support@lerpyturkey.com"
+            >support@lerpyturkey.com</a
           >
           or through our <a href="./contact.php">Contact</a> page.
         </p>

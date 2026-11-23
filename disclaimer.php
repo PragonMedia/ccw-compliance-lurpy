@@ -8,8 +8,7 @@
   </head>
   <body>
     <div class="top-bar" role="note">
-      Independent publisher — not a government website. Operated by Inception
-      Point Media LLC.
+      Independent publisher — not a government website. Operated by Lerpy Turkey LLC.
     </div>
 
     <div class="page">
@@ -50,8 +49,7 @@
         <h2>Featured private services</h2>
         <p>
           If we feature a private assistance service such as Rush Permit
-          (operated by 713online, LLC), that company is independent of Inception
-          Point Media LLC and independent of government agencies. It does not
+          (operated by 713online, LLC), that company is independent of Lerpy Turkey LLC and independent of government agencies. It does not
           issue permits and does not decide approvals. Your issuing authority
           makes the final decision.
         </p>
@@ -72,8 +70,8 @@
           </p>
           <p>
             Email:
-            <a href="mailto:support@inceptionpointmedia.io"
-              >support@inceptionpointmedia.io</a
+            <a href="mailto:support@lerpyturkey.com"
+              >support@lerpyturkey.com</a
             >
           </p>
         </div>

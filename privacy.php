@@ -8,8 +8,7 @@
   </head>
   <body>
     <div class="top-bar" role="note">
-      Independent publisher — not a government website. Operated by Inception
-      Point Media LLC.
+      Independent publisher — not a government website. Operated by Lerpy Turkey LLC.
     </div>
 
     <div class="page">
@@ -36,8 +35,8 @@
           </p>
           <p>
             Email:
-            <a href="mailto:support@inceptionpointmedia.io"
-              >support@inceptionpointmedia.io</a
+            <a href="mailto:support@lerpyturkey.com"
+              >support@lerpyturkey.com</a
             >
           </p>
         </div>
@@ -136,8 +135,8 @@
           To request access, correction, or deletion of personal information we
           hold about you, or to opt out of marketing communications from us (if
           any), contact us at
-          <a href="mailto:support@inceptionpointmedia.io"
-            >support@inceptionpointmedia.io</a
+          <a href="mailto:support@lerpyturkey.com"
+            >support@lerpyturkey.com</a
           >
           or
           <a href="tel:2252667408">(225) 266-7408</a>. We will respond as
@@ -165,8 +164,8 @@
 
         <h2>10. Contact Us</h2>
         <p>
-          Questions about this Privacy Policy can be sent to Inception Point
-          Media LLC using the contact details above or through our
+          Questions about this Privacy Policy can be sent to Lerpy Turkey LLC
+          using the contact details above or through our
           <a href="./contact.php">Contact</a> page.
         </p>
       </div>
