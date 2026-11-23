@@ -1,0 +1,5 @@
+# Place at the domain document root (alongside or instead of a default index).
+# Redirects getccwpermitseasy.com → /v1/
+RewriteEngine On
+RewriteRule ^$ /v1/ [R=301,L]
+RewriteRule ^index\.(html?|php)$ /v1/ [R=301,L]
